@@ -46,3 +46,5 @@ public class BankTranslate {
 
 
 }
+//@SuppressWarnings()是用来抑制编译期警告的。
+//@Deprecated()是用来注释
